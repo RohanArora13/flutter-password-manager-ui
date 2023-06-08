@@ -46,7 +46,7 @@ Design Credit : https://www.uplabs.com/posts/password-manager-app-concept-design
   <br>
 </h2>
 <p align="center">
-<a href="https://mega.nz/file/jxtHnRII#9EhtKDjHgcidu5od_4TR8v3BHwOe68IOX--r5NE57r8" target="_blank" title="Image from PNG Image"><img src="https://i.imgur.com/srMcFcx.png" height="100"width="300" alt="download android app"></a>
+<a href="https://mega.nz/file/jxtHnRII#9EhtKDjHgcidu5od_4TR8v3BHwOe68IOX--r5NE57r8" target="_blank" title="Download Apk"><img src="https://i.imgur.com/srMcFcx.png" height="100"width="300" alt="download android app"></a>
 </p>
 
 ## 🖥 Flutter Tutorial
