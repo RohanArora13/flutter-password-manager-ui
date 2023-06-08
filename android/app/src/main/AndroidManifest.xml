@@ -2,7 +2,7 @@
     package="com.example.password_manager">
    <application
         android:label="Password Manager UI"
-        android:name="${applicationName}"
+        android:name="Password Manager UI"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
