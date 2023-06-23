@@ -60,7 +60,7 @@ you can watch a speed coding video of above UI at [My channel](https://www.youtu
 
 
 ## 🤝 Show Some Support #
-###### If you 👍 the project, do not forget ⭐️ me Stay tuned for the latest updates [Follow me](https://github.com/sagarshende23) 🤙
+###### If you 👍 the project, do not forget ⭐️ me Stay tuned for the latest updates [Follow me](https://github.com/RohanArora13) 🤙
 
 
 ## 🐛 Bugs/Requests #
